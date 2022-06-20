@@ -2,6 +2,8 @@
 
 ## Background/Info 
 
+### Hello
+
 The improvements in blockchain technology from decentalized financial applications from orgnaizations [Ethereum2.0](https://ethereum.org/en/upgrades/) providing improves from Proof-of-Work(POW) to Proof-of-Stake(POS)and [Ripple and its Liquidity Hub](https://ripple.com/lp/liquidity-hub/) which enable enterprise companies to easily and efficiently source digital assets from the broader crypto market.
 
 ## Why this project?
